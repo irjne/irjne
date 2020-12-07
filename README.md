@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 # Hello, there! 👋
 
+#### 💻 I'm a Web Developer @ Darwin Technologies in Catania (Sicily, IT)
 #### 🔭 I'm currently studying Development & Data Analysis at Steve Jobs Academy in Catania (Sicily, IT)
 
 ### #️⃣ Languages 
